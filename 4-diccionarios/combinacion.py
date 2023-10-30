@@ -6,4 +6,3 @@ lista_alumnos = [
 
 lista_alumnos[2]["cursos"].pop(1)
 print(lista_alumnos[2])
-
